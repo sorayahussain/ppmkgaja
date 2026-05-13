@@ -2,6 +2,8 @@
 
 **PPMK가자** is a centralized, modern digital hub designed specifically for the Malaysian student community in South Korea. By blending Malaysian community needs with Korean student digital culture, the platform streamlines communication, enhances transparency in elections, and fosters a stronger sense of belonging.
 
+<src="assets/landingpage.png" alt="Landing Page">
+
 ---
 
 ## 🚀 Inspiration
