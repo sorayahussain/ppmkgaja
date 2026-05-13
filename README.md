@@ -1,4 +1,4 @@
-# PPMK가자 (PPMK-Gaja) 🇰🇷🇲🇾 [Top 5 Finalist for HackPPMK](https://devpost.com/software/ppmk?_gl=1*72183*_gcl_au*MTk4Nzk4NDE1My4xNzc4NjgzMzQy*_ga*MTU4MDQ1MTE3NS4xNzc4NjgzMzQy*_ga_0YHJK3Y10M*czE3Nzg2ODMzNDEkbzEkZzEkdDE3Nzg2ODMzNTAkajUxJGwwJGgw)
+# PPMK가자 (PPMK-Gaja) 🇰🇷🇲🇾 [Top 5 Finalist of HackPPMK](https://devpost.com/software/ppmk?_gl=1*72183*_gcl_au*MTk4Nzk4NDE1My4xNzc4NjgzMzQy*_ga*MTU4MDQ1MTE3NS4xNzc4NjgzMzQy*_ga_0YHJK3Y10M*czE3Nzg2ODMzNDEkbzEkZzEkdDE3Nzg2ODMzNTAkajUxJGwwJGgw)
 
 **PPMK가자** is a centralized, modern digital hub designed specifically for the Malaysian student community in South Korea. By blending Malaysian community needs with Korean student digital culture, the platform streamlines communication, enhances transparency in elections, and fosters a stronger sense of belonging.
 
